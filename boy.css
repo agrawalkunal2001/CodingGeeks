@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.img{
+    margin-top: 70px;
+    text-align: center;
+    
+}
+
+.img img{
+    padding: 20px;
+    width: 20em;
+    height: 20em;
+    border-radius: 50%;
+    border: 6px solid black;
+}
+
+.name{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.name h1{
+    font-size: 48px;
+    font-weight: lighter;
+}
+
+.des{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.des p{
+    text-align: center;
+    font-size: 32px;
+    padding: 40px;
+}
+
+.footer{
+    background: #263238;
+    color: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+}
+
+.about h1,
+.achievement h1,
+.skills h1{
+    margin: 30px;
+    font-weight: lighter;
+    font-size: 60px;
+}
+
+.para{
+    text-align: justify;
+    margin: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
